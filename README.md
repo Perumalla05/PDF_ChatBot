@@ -1,17 +1,5 @@
 
-Absolutely — here’s a **clean, professional README.md** for **your actual project** with the **correct wording**:
 
-* it clearly says **LangChain-based**
-* it clearly says **RAG-based**
-* it mentions **`.gitignore` for security**
-* it matches **your current code**
-* it does **not overclaim**
-
-You can create a file named **`README.md`** and paste this exactly:
-
----
-
-````md
 # 📄 PDF Chatbot using LangChain, RAG, Gemini & FAISS
 
 A **PDF Question Answering Chatbot** built using **Streamlit, LangChain, Google Gemini API, and FAISS**.  
